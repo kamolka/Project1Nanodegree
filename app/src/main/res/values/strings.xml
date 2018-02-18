@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project1Nanodegree</string>
+    <string name="_logo_text">Serving cupcakes and cakes
+                 since 2012</string>
+    <string name="opening_hours">Opening Hours:</string>
+    <string name="tue_fri_12_00_18_00">Tue-Fri: 12:00-18:00</string>
+    <string name="sat_12_00_16_00">Sat: 12:00-16:00</string>
+    <string name="address">Address</string>
+    <string name="friedrichsring_40">Friedrichsring 40</string>
+    <string name="_68161_mannheim">68161 Mannheim</string>
+    <string name="_0621_43_72_85_68">0621 / 43 72 85 68</string>
+    <string name="www_truecupcakes_de">www.truecupcakes.de</string>
+    <string name="zoom_gallery">Zoom Gallery</string>
+
+</resources>
